@@ -1,0 +1,188 @@
+activated: Ativado.
+added: Adicionado.
+agent-alreadyon: Esse agente já está logado. Por favor, digite seu número de agente seguido da tecla cerquilha (#).
+agent-incorrect: Login incorreto. Por favor, digite seu número de agente seguido da tecla cerquilha (#).
+agent-loggedoff: Agente desconectado.
+agent-loginok: Agente conectado.
+agent-newlocation: Por favor, digite um novo ramal seguido da tecla cerquilha (#).
+agent-pass: Por favor, digite sua senha seguida da tecla cerquilha (#).
+agent-user: Login de agente. Por favor, digite seu número de agente seguido da tecla cerquilha (#).
+all-circuits-busy-now: Todas as linhas estão ocupadas no momento.
+ascending-2tone: [tons ascendentes]
+astcc-followed-by-the-pound-key: Seguido pela tecla cerquilha (#).
+at-tone-time-exactly: Ao som do sinal, o horário será exatamente...
+auth-incorrect: Senha incorreta. Por favor, digite sua senha seguida da tecla cerquilha (#).
+auth-thankyou: Obrigado.
+basic-pbx-ivr-main: Obrigado por ligar para a Super Awesome Company, o principal provedor de produtos perfeitos de Waldo. Se você souber o ramal do seu contato, pode digitá-lo a qualquer momento. Para parcerias comerciais, digite 1. Para falar com um representante, digite 2. Para contabilidade e recebíveis, digite 3. Para o diretório da empresa, digite 4. Para falar com o operador, digite 0.
+beep: [som de bip simples]
+beeperr: [som de erro]
+call-forwarding: Encaminhamento de chamadas.
+call-fwd-no-ans: Encaminhar em caso de não atender.
+call-fwd-on-busy: Encaminhar em caso de ocupado.
+call-fwd-unconditional: Encaminhamento incondicional.
+call-waiting: Chamada em espera.
+calling: Chamando.
+cancelled: Cancelado.
+cannot-complete-as-dialed: Sua chamada não pode ser completada como discada.
+check-number-dial-again: Por favor, verifique o número e disque novamente.
+conf-adminmenu: Pressione 1 para ativar/desativar mudo, 2 para bloquear/desbloquear a conferência, 3 para remover o último usuário, 4 ou 6 para diminuir ou aumentar o volume da conferência, 7 ou 9 para ajustar seu volume pessoal, ou 8 para sair.
+conf-enteringno: Você está entrando na conferência número
+conf-full: Essa conferência está cheia.
+conf-getconfno: Por favor, digite o número da conferência seguido da tecla cerquilha (#).
+conf-getpin: Por favor, digite o PIN da conferência.
+conf-hasjoin: entrou na conferência.
+conf-hasleft: saiu da conferência.
+conf-invalid: Número de conferência inválido. Por favor, tente novamente.
+conf-invalidpin: Esse PIN é inválido para esta conferência.
+conf-kicked: Você foi removido desta conferência.
+conf-leaderhasleft: O líder saiu da conferência.
+conf-locked: Esta conferência está bloqueada!
+conf-muted: Você está no modo mudo.
+conf-noempty: Não há conferências disponíveis no momento.
+conf-now-recording: A conferência está sendo gravada.
+conf-onlyone: Há apenas um outro participante na conferência.
+conf-onlyperson: Você é o único participante nesta conferência.
+conf-placeintoconf: Você será colocado na conferência agora.
+confbridge-has-joined: ...entrou na conferência.
+confbridge-has-left: ...saiu da conferência.
+confbridge-invalid: Você digitou uma opção inválida.
+confbridge-locked: A conferência está agora bloqueada.
+confbridge-muted: Você está agora em modo mudo.
+confbridge-only-participant: Você é atualmente o único participante da conferência.
+confbridge-unlocked: A conferência foi desbloqueada.
+confbridge-unmuted: Você não está mais no modo mudo.
+de-activated: Desativado.
+demo-congrats: Parabéns. Você instalou e executou com sucesso o Asterisk PBX de código aberto.
+demo-echotest: Você está prestes a entrar em um teste de eco. Tudo o que você disser será repetido imediatamente. Para encerrar o teste, desligue ou pressione a tecla cerquilha (#).
+demo-thanks: Obrigado. Até logo.
+descending-2tone: [tons descendentes]
+digits/0: zero
+digits/1: um
+digits/2: dois
+digits/3: três
+digits/4: quatro
+digits/5: cinco
+digits/6: seis
+digits/7: sete
+digits/8: oito
+digits/9: nove
+digits/10: dez
+digits/11: onze
+digits/12: doze
+digits/13: treze
+digits/14: quatorze
+digits/15: quinze
+digits/16: dezesseis
+digits/17: dezessete
+digits/18: dezoito
+digits/19: dezenove
+digits/20: vinte
+digits/30: trinta
+digits/40: quarenta
+digits/50: cinquenta
+digits/60: sessenta
+digits/70: setenta
+digits/80: oitenta
+digits/90: noventa
+digits/hundred: cem
+digits/thousand: mil
+digits/million: milhão
+digits/billion: bilhão
+digits/today: hoje
+digits/tomorrow: amanhã
+digits/yesterday: ontem
+dir-intro: Bem-vindo ao diretório. Por favor, digite as três primeiras letras do sobrenome do seu contato usando o teclado telefônico.
+disabled: Desativado.
+do-not-disturb: Não perturbe.
+enabled: Ativado.
+enter-num-blacklist: Digite o número para colocar na lista negra.
+entr-num-rmv-blklist: Digite o número para remover da lista negra.
+extension: Ramal.
+feature-not-avail-line: Este recurso não está disponível nesta linha.
+followme/call-from: Chamada de
+followme/options: Pressione 1 para aceitar esta chamada, ou 2 para rejeitar.
+followme/pls-hold-while-try: Por favor, aguarde enquanto tento localizar a pessoa que você está chamando.
+followme/sorry: Desculpe, não foi possível localizar a pessoa que você está chamando.
+from-unknown-caller: De um chamador desconhecido.
+goodbye: Adeus!
+hello-world: Olá, mundo.
+hello: Olá.
+if-correct-press: Se estiver correto, pressione...
+im-sorry: Desculpe.
+info-about-last-call: Informações sobre sua última chamada.
+invalid: Desculpe, essa extensão não é válida. Tente novamente.
+is-in-use: Está em uso.
+letters/a: a
+letters/b: b
+letters/c: c
+letters/d: d
+letters/e: e
+letters/f: f
+letters/g: g
+letters/h: h
+letters/i: i
+letters/j: j
+letters/k: k
+letters/l: l
+letters/m: m
+letters/n: n
+letters/o: o
+letters/p: p
+letters/q: q
+letters/r: r
+letters/s: s
+letters/t: t
+letters/u: u
+letters/v: v
+letters/w: w
+letters/x: x
+letters/y: y
+letters/z: z
+location: Localização.
+lowercase: letras minúsculas
+uppercase: letras maiúsculas
+minute: minuto
+minutes: minutos
+number: Número.
+one-moment-please: Um momento, por favor.
+pbx-invalid: Desculpe, essa extensão não é válida. Tente novamente.
+please-try-again: Por favor, tente novamente.
+please-try-call-later: Por favor, tente sua chamada novamente mais tarde.
+pls-hold-while-try: Por favor, aguarde enquanto tentamos conectá-lo.
+queue-callswaiting: Aguardando para falar com um representante.
+queue-holdtime: O tempo estimado de espera é de
+queue-minute: minuto
+queue-minutes: minutos
+queue-thankyou: Obrigado por sua paciência.
+queue-youarenext: Sua chamada é a próxima e será atendida em instantes.
+removed: Removido.
+screen-callee-options: Você tem estas opções: disque 1 para atender, 2 para enviar ao correio de voz, 3 para enviar ao menu de espera.
+second: segundo
+seconds: segundos
+simul-call-limit-reached: Limite de chamadas simultâneas atingido.
+sorry-youre-having-problems: Desculpe, você está tendo problemas.
+sorry: Desculpe.
+speed-dial: Discagem rápida.
+ss-noservice: O número discado não está em serviço. Verifique e tente novamente.
+telephone-number: Número de telefone.
+time: Hora.
+to-call-this-number: Para ligar para este número.
+to-extension: Para o ramal.
+transfer: Por favor, aguarde enquanto tentamos transferir.
+tt-allbusy: Todos os representantes estão ocupados no momento. Por favor, aguarde.
+unidentified-no-callback: Número não identificado, não é possível retornar a chamada.
+vm-goodbye: Adeus.
+vm-password: senha
+vm-login: Caixa postal. Digite o número da sua caixa.
+vm-incorrect: Login incorreto.
+vm-youhave: Você tem
+vm-message: mensagem
+vm-messages: mensagens
+vm-saved: salva
+vm-deleted: mensagem apagada
+vm-nomore: Não há mais mensagens.
+vm-leavemsg: Pressione 5 para deixar uma mensagem.
+vm-sorry: Desculpe, não entendi sua resposta.
+with: com
+you-entered: Você digitou.
+your: Seu / Sua.
